@@ -74,8 +74,8 @@ Este projeto está sob a licença [MIT](LICENSE).
 
 ## Contato
 
-- **Email**: seu-email@example.com
-- **GitHub**: [seu-usuario](https://github.com/seu-usuario)
+- **Email**: kpiresdev@gmail.com
+- **GitHub**: [Kalleb Pires](https://github.com/KallebPires)
 
 ---
 

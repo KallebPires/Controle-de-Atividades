@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    <title>Controle de Atividades</title>
+</head>
+<body>
+    <form id="controleAtividades">
+        <h3>Controle de Atividades</h3>
+    
+        <label><input type="checkbox" name="atividade" value="*SALA MULTIUSO*: Ar condicionado-Televisão-Janelas-Portas">  Sala Multiuso </label><br>
+    
+        <label><input type="checkbox" name="atividade" value="*SALA 01*: Ar condicionado-Televisão-Janelas-Portas"> Sala 01</label><br>
+    
+        <label><input type="checkbox" name="atividade" value="*SALA 02 ADM*: Ar condicionado-Televisão-Janelas-Portas"> Sala 02 ADM</label><br>
+    
+        <label><input type="checkbox" name="atividade" value="*SALA 03*: Ar condicionado-Televisão-Janelas-Portas"> Sala 03</label><br>
+    
+        <label><input type="checkbox" name="atividade" value="*SALA 04*: Ar condicionado-Televisão-Janelas-Portas"> Sala 04</label><br>
+        
+        <label><input type="checkbox" name="atividade" value="*Sala Equipe Técnica*: Ar condicionado-Televisão-Janelas-Portas"> Sala Equipe Técnica</label><br>
+
+        <label><input type="checkbox" name="atividade" value="*Sala Coordenação*: Ar condicionado-Televisão-Janelas-Portas"> Sala Coordenação</label><br>
+
+        <label><input type="checkbox" name="atividade" value="*Sala Casinha*:Ar condicionado-Televisão-Janelas-Portas"> Sala Casinha</label><br>
+
+        <label><input type="checkbox" name="atividade" value="*Banheiro 01*: Estufas-Janelas"> Banheiro 01</label><br>
+
+        <label><input type="checkbox" name="atividade" value="*Banheiro 02*: Estufas-Janelas"> Banheiro 02 </label><br>
+
+        <label><input type="checkbox" name="atividade" value="*Cozinha*:Estufas-Janelas-Portas"> Cozinha</label><br>
+
+        <label><input type="checkbox" name="atividade" value="*Refeitório*: Porta dos fundos-Janelas-Portas"> Refeitório</label><br>
+
+        <label><input type="checkbox" name="atividade" value="*Banheiro Entrada*: Janelas-Portas"> Banheiro Entrada</label><br>
+
+    <br>
+        <button type="button" onclick="gerarMensagem()">Gerar Mensagem</button>
+    </form>
+    
+    <div id="resultadoMensagem"></div>
+    <script src="./script.js"></script>
+    
+</body>
+</html>

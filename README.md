@@ -68,9 +68,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para fazer um **fork** do p
 4. **Push** para a branch (`git push origin feature/nova-feature`).
 5. Abra um **Pull Request**.
 
-## Licença
 
-Este projeto está sob a licença [MIT](LICENSE).
 
 ## Contato
 

@@ -79,4 +79,3 @@ Este projeto está sob a licença [MIT](LICENSE).
 
 ---
 
-Espero que este README seja útil para o seu projeto de controle de atividades!
